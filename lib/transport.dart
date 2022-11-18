@@ -25,11 +25,11 @@ class Transport extends StatelessWidget {
                     Expanded(
                         child: SectionCard(
                       text: 'Bus',
-                      path: 'images/transport.jpg',
+                      path: 'images/bus.jpg',
                     ))
                   ]),
                   Expanded(
-                      child: SectionCard(text: 'Taxi', path: 'images/food.jpg'))
+                      child: SectionCard(text: 'Taxi', path: 'images/taxi.jpg'))
                 ],
               ),
             ),

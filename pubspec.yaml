@@ -82,6 +82,8 @@ flutter:
    - images/healthcare.jpg
    - images/report.jpg
    - images/hlhty.jpg
+   - images/taxi.jpg
+   - images/bus.jpg
    - images/map.png
    - images/water.jpg
    - images/icons/cleaner.png
